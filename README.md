@@ -8,10 +8,9 @@
 </p> 
 <p align="center"
 <a href="https://github.com/Phantom-19"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
-<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2019-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.7-green.svg?style=flat-square"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blue&style=flat-square"></a>
 <a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Hack_twitter??color=red&style=flat-square"></a>
 <a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Hack_twitter??color=red&style=flat-square"></a>
@@ -19,6 +18,29 @@
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
+
+```
+            ..,;:ccc,.                          
+          ......''';lxO.                        
+.....''''..........,:ld;                        
+           .';;;:::;,,.x,                       
+      ..'''.            0Xxoc:,.  ...           
+  ....                ,ONkc;,;cokOdc',.         
+ .                   OMo           ':'o.       
+                    dMc               :OO;      
+                    0M.                 .:o.    
+                    ;Wd                         
+                     ;XO,                       
+                       ,d0Odlc;,..              
+                           ..',;:cdOOd::,.      
+                                    .:d;.':;.   
+                                       'd,  .'  
+                                         ;l   ..
+                  🅵🅰🆇🅴🅻               .o    
+                                            c   
+                                             .' 
+                                             .  
+```
 
 ## `Installation Hack_twitter `:
 
