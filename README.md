@@ -50,11 +50,11 @@
 * `cd Hack_twitter`
 * `pip3 install requests;pip3 install proxylist;pip3 install argparse`
 
-## ` Execution > ` `python3 twitter`
+## ` Execution > ` `python3 Faxel`
 
 ##  `Commande unique de Hack_twitter`:
 ```
-apt update ; git clone https://github.com/Phantom-19/Hack_twitter.git ; cd Hack_twitter ; pip3 install mechanize ;   pip3 install requests ; pip3 install requests ; pip3 install proxylist ; pip3 install argparse ; python3 twitter
+apt update ; git clone https://github.com/Phantom-19/Hack_twitter.git ; cd Hack_twitter ; pip3 install mechanize ;   pip3 install requests ; pip3 install proxylist ; pip3 install argparse ; python3 Faxel
 ```
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 ## `Retrouvez moi sur` :
