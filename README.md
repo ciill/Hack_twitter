@@ -48,13 +48,13 @@
 * `apt install git  python `
 * `git clone https://github.com/Phantom-19/Hack_twitter.git`
 * `cd Hack_twitter`
-* `pip3 install requests ; pip3 install proxylist ; pip3 install argparse`
+* `pip install requests ; pip install proxylist ; pip install argparse`
 
 ## ` Execution > ` `python3 Faxel.py`
 
 ##  `Commande unique de Hack_twitter`:
 ```
-apt update ; git clone https://github.com/Phantom-19/Hack_twitter.git ; cd Hack_twitter ; pip3 install mechanize ;   pip3 install requests ; pip3 install proxylist ; pip3 install argparse ; python3 Faxel.py
+apt update ; git clone https://github.com/Phantom-19/Hack_twitter.git ; cd Hack_twitter ; pip install mechanize ;   pip install requests ; pip install proxylist ; pip install argparse ; python3 Faxel.py
 ```
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 
@@ -72,5 +72,6 @@ apt update ; git clone https://github.com/Phantom-19/Hack_twitter.git ; cd Hack_
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![npm](https://img.shields.io/badge/npm-%40Faxel-yellow?logo=npm)](https://www.npmjs.com/~faxel)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%40Faxel-yellow?logo=stackoverflow)](https://stackoverflow.com/users/13364230/faxel?)
+[![npm](https://img.shields.io/badge/npm-%40Faxel-yellow?logo=npm)](https://www.npmjs.com/~faxel)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/LICENSE)
 [![PayPal](https://img.shields.io/badge/PayPal-%20donate-green.svg?logo=paypal)](https://www.paypal.me/)
